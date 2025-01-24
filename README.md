@@ -6,13 +6,13 @@ This is my Wake Tech GitHub account used for classes that require GitHub.
 
 This repository will hold assignments for Web, Pgm, & Db Foundation. 
 
-#**About me**
+# **About me**
 
-##My interests
+## My interests
 
 My hobbies are gaming with friends, and reading. I enjoy playing various multiplayer games with friends as I believe gaming becomes much more enjoyable when playing with others. In my free time when my friends aren't available or when I want to do something alone, I read. I enjoy math and as a college course I find coding and scripting pretty enjoyable, I find that when I complete a program and it works out just as I intended, that it is fun.
 
-##Websites I recommend
+## Websites I recommend
 
 [_YouTube_] (www.youtube.com) - YouTube is a website where you can find nearly everything you could want in the format of a video, this includes entertainment, education, tutorials etc.. You can even create videos to help or entertain others. I use YouTube for entertainment and for tutorials if I'm uncertain about something.
 
